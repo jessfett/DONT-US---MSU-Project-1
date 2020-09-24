@@ -1,0 +1,10 @@
+Name,Period,Maximum Temperature,Minimum Temperature,Temperature,Wind Chill,Heat Index,Precipitation,Snow Depth,Wind Speed,Wind Gust,Visibility,Cloud Cover,Relative Humidity
+Seattle,Jan,57.8,29,44.9,23.9,,3.42,,23,35.7,8.8,76.9,80.04
+Seattle,Feb,57.8,30.8,43.6,24.2,,2,,20.8,35.1,9,65.8,76.1
+Seattle,Mar,61.1,29.9,44.5,26,,1.14,,20.8,31.1,9.6,60.9,71.32
+Seattle,Apr,69.2,34.1,52.1,31.7,,0.8,,20.8,31.1,9.7,48.5,62.93
+Seattle,May,87.2,42.2,59,38.8,83.7,1.71,,17.2,29.8,9.6,56.4,63.6
+Seattle,Jun,81,51.2,61.7,,80.9,0.79,,16.1,25.3,9.7,61,66.02
+Seattle,Jul,92.9,55.1,66.8,,90.7,0.08,,13.9,23,9.8,41.2,60.34
+Seattle,Aug,97.1,52.1,67.8,,95,0.07,,15,27,9.9,33.3,59.93
+Seattle,Sep,90,51.2,66.3,,86.2,0.9,,15,26.4,6.8,47.9,66.05
